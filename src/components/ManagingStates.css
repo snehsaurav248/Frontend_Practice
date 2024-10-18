@@ -1,0 +1,21 @@
+.handle-states
+{
+    display: flex;
+    background-color: lightpink;
+    justify-content: center;
+    align-items: center;
+}
+.count
+{
+    padding-left: 5px;
+
+}
+.button-clicked
+{
+    background-color: chocolate;
+}
+.counted
+{
+    padding-right: 5px;
+    background-color: darkseagreen;
+}
